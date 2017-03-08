@@ -1,7 +1,7 @@
 
 create database dbContact;
 
-grant all privileges on dbContact.* to adminDBContact identified by '@42Bz8ai';
+grant all privileges on dbContact.* to adminDBContact identified by 'leMotDePasse';
 
 
 create table contact (	idContact integer not null primary key,
