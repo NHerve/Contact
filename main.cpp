@@ -11,7 +11,7 @@ int main(int argc, char *argv[])
     maBase.setDatabaseName("dbContact");
     maBase.setHostName("localhost");
     maBase.setUserName("adminDBContact");
-    maBase.setPassword("@42Bz8ai");
+    maBase.setPassword("leMotDePasse");
     if(maBase.open())
     {
     MainWindow w;
